@@ -20,7 +20,7 @@
 # Example of converting DAT files in a folder named 'dat' in the current directory,
 # and creating a folder named 'output_dir' in the current directory to output CSV files
 python ./script/dat2csv.py dat -o output_dir
-
+```
 
 Output directory specification is optional, so it can be omitted.
 
