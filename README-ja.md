@@ -31,11 +31,10 @@ python ./script/dat2csv.py dat
 
 ### 出⼒例
 1. ディレクトリ構造
+![fig1](https://github.com/wine-ai/dat2csv/assets/3130494/fbf01bdc-43de-4b49-8da1-e31937a0f090)
 
 2. CSVファイル構造
-
-
-
+![fig2](https://github.com/wine-ai/dat2csv/assets/3130494/ac4bf981-015d-4ce7-bab8-6d161db31a40)
 
 ## その他
 データ量が膨⼤なので、処理に時間がかかります（1978年〜2017年の全件処理で、概ね2時間程度）  
