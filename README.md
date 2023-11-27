@@ -1,4 +1,4 @@
-# DAT2CSV Conversion Program
+# DAT2CSV Conversion script
 [日本語](README-ja.md) | [English](./README.md)
 
 ## Confirmed Operating Environments
